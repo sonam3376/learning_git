@@ -9,3 +9,7 @@
 3. algorithm
 
 4. java
+
+5. sorting all type
+
+6. dynamic programming
