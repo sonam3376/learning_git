@@ -1,0 +1,9 @@
+1.git
+  1.1 what is git?
+  1.2 what is fork?
+  1.3 how to merge and pull file?
+  1.4 what is meant by pull request?
+
+2. data structure 
+
+3. algorithm
